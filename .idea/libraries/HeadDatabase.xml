@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="HeadDatabase">
+    <CLASSES>
+      <root url="jar://G:/testserver/plugins/HeadDatabase.jar!/" />
+      <root url="jar://G:/testserver/plugins/CMI8.8.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

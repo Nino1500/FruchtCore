@@ -1,0 +1,28 @@
+name: FruchtCore
+author: Ninoo
+version: 1.0
+api-version: 1.16
+main: net.fruchtlabor.fruchtcore.FruchtCore
+depend: [Vault, Jobs, CMI, SmartInvs]
+commands:
+    job:
+        description: "Zeigt das Job's Gui"
+        usage: "Jobbefehl"
+    links:
+        description: "Zeigt links"
+        usage: "Linkbefehl"
+    xcheck:
+        description: "xchecker"
+        usage: "xchecker Befehl"
+    team:
+        description: "teamcmd"
+        usage: "/team text"
+    fcr:
+        description: "restart cmd"
+        usage: "/fcr time"
+    test:
+        description: ""
+        usage: ""
+    fcc:
+        description: ""
+        usage: ""
